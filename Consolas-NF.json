@@ -1,8 +1,8 @@
 {
-    "version": "0.1",
+    "version": "0.2",
     "description": "Consolas font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
-    "url": "https://extremempd.blob.core.windows.net/nerd-fonts/Consolas.zip",
-    "hash": "6C6816F204208F4B1527682D278DB0F561656637158BD6AB7DA7983C95043D2E",
+    "url": "https://github.com/mateuszdrab/scoop-bucket/raw/refs/heads/main/ConsolasNerdFont.zip",
+    "hash": "4C620D88947580D93E3ADDD9E36138A68BF74DA52EC37622687369327C811C16",
     "extract_dir": "ttf",
     "installer": {
         "script": [
